@@ -1,5 +1,5 @@
 
-# Cálculadora de IMC
+# Calculadora de IMC
 
 ![preview](https://user-images.githubusercontent.com/116108525/203833496-1ca4cd37-d383-4323-bc4d-89ea4895f616.png)
 
