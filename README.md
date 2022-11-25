@@ -16,6 +16,6 @@
 * JavaScript 
 ## Abrir Projeto
 
-[Calculadora de IMC](https://formulario-chi-livid.vercel.app)
+[Calculadora de IMC](https://calculadora-imc-ten-sandy.vercel.app)
 
 <p align="center">Done with 💜 by vithorDeveloper👋</p>
